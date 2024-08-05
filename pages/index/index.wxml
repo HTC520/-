@@ -1,0 +1,16 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="btns">
+    <view class="btn start" bindtap="handleStart" data-id="1-1-1" data-title="科一速记宝典">科一速记宝典</view>
+    <view class="btn" bindtap="toggleCollapse">开发ing... {{collapsed ? '  ▼ ' : '  ▲ '}}</view>
+    <view wx:if="{{!collapsed}}">
+      <view class="btn" bindtap="handleStart" data-id="test" data-title="测试页面">测试页面</view>
+      <view class="btn" bindtap="handleLogs">学习记录</view>
+      <view class="btn">错题集</view>
+      <navigator url="../result/result" class="btn">
+        结果
+      </navigator>
+    </view>
+  </view>
+
+</view>
