@@ -7,6 +7,6 @@
 
 ![image](https://github.com/user-attachments/assets/a720dea7-d508-48ec-b69b-448c219b49c1)
 
-## 小程序已上线, 仅供参考
+## 小程序已上线, 仅供参考 (也可直接搜 匡匡和他的朋友们 )
 ![image](https://github.com/user-attachments/assets/1944b29d-106c-4061-9384-8d27e58e39cc)
 
